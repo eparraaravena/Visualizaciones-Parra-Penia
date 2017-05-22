@@ -1,0 +1,554 @@
+[
+ {
+   "asignatura": "PROYECTO DE TITULO",
+   "creditos": 30,
+   "periodo": "X",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "PROYECTO DE TITULO",
+   "creditos": 30,
+   "periodo": "X",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO I",
+   "creditos": 18,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO GRAFICO II",
+   "creditos": 18,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO INDUSTRIAL II",
+   "creditos": 18,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "PRACTICA PROFESIONAL II",
+   "creditos": 15,
+   "periodo": "IX",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "INVESTIGACION BASE MEMORIA",
+   "creditos": 15,
+   "periodo": "IX",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "PRACTICA PROFESIONAL II",
+   "creditos": 15,
+   "periodo": "IX",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "INVESTIGACION BASE MEMORIA",
+   "creditos": 15,
+   "periodo": "IX",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO GRAFICO III",
+   "creditos": 9,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO INDUSTRIAL III",
+   "creditos": 9,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO GRAFICO IV",
+   "creditos": 9,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO INDUSTRIAL IV",
+   "creditos": 9,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO GRAFICO V",
+   "creditos": 9,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO INDUSTRIAL V",
+   "creditos": 9,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO GRAFICO VI",
+   "creditos": 9,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TALLER DE DISEÑO INDUSTRIAL VI",
+   "creditos": 9,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "EXPRESION GRAFICA I",
+   "creditos": 7,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "PERCEPCION",
+   "creditos": 7,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "GEOMETRIA",
+   "creditos": 7,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "GRAFICA COMPUTACIONAL I",
+   "creditos": 6,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "HISTORIA Y TEORIA DEL DISEÑO",
+   "creditos": 6,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "MATEMATICAS",
+   "creditos": 6,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "EXPRESION GRAFICA II",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "PERCEPCION VISUAL",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "FOTOGRAFIA",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "GRAFICA COMPUTACIONAL II",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "HISTORIA Y TEORIA DEL DISEÑO GRAFICO",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "TEORIA DE LA COMUNICACION",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "ECONOMIA Y ADMINISTRACION",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "TALLER DE MAQUETAS Y PROTOTIPOS",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "GEOMETRIA II Y DIBUJO TECNICO",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "TECNOLOGIA INDUSTRIAL Y MATERIALES I",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "GRAFICA COMPUTACIONAL II",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "ERGONOMIA I",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "FISICA",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "ECONOMIA Y ADMINISTRACION",
+   "creditos": 6,
+   "periodo": "2º",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "SEMINARIO DE DISEÑO GRAFICO I",
+   "creditos": 5,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE DISEÑO INDUSTRIAL I",
+   "creditos": 5,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE DISEÑO GRAFICO II",
+   "creditos": 5,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE DISEÑO INDUSTRIAL II",
+   "creditos": 5,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ANTROPOLOGIA CULTURAL",
+   "creditos": 3,
+   "periodo": "1°",
+   "regimen": "Anual"
+ },
+ {
+   "asignatura": "TECNOLOGIA GRAFICA I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MULTIMEDIA I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "LENGUAJE AUDIOVISUAL I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "PSICOLOGIA SOCIAL",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMIOTICA DE LA IMAGEN I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MARKETING I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TECNOLOGIA INDUSTRIAL Y MATERIALES II",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MODELAMIENTO I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ERGONOMIA II",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ESTRUCTURAS I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MARKETING I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "HISTORIA Y TEORIA DEL DISEÑO INDUSTRIAL",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO I",
+   "creditos": 3,
+   "periodo": "V",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TECNOLOGIA GRAFICA II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MULTIMEDIA II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "LENGUAJE AUDIOVISUAL II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "METODOLOGIA DE LA INVESTIGACION",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMIOTICA DE LA IMAGEN II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MARKETING II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "TECNOLOGIA INDUSTRIAL Y MATERIALES III",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MODELAMIENTO II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "BIONICA",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ESTRUCTURAS II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "MARKETING II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "METODOLOGIAS DE LA INVESTIGACION",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO II",
+   "creditos": 3,
+   "periodo": "VI",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO GRAFICA COMPUTACIONAL I",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO PRODUCCION AUDIOVISUAL I",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "PUBLICIDAD",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE GESTION I",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO III",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "PSICOLOGIA SOCIAL",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DISEÑO COMPUTACIONAL I",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE PROCESOS DE PRODUCCION Y MATERIALES INDUSTRIALES I",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE GESTION I",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO III",
+   "creditos": 3,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO GRAFICA COMPUTACIONAL II",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO PRODUCCION AUDIOVISUAL II",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ETICA Y LEGISLACION",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE GESTION II",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO IV",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ETICA Y LEGISLACION",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE DISEÑO COMPUTACIONAL II",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE PROCESOS DE PRODUCCION Y MATERIALES INDUSTRIALES II",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "SEMINARIO DE GESTION II",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "ELECTIVO IV",
+   "creditos": 3,
+   "periodo": "VIII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "PRACTICA PROFESIONAL I",
+   "creditos": 2,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ },
+ {
+   "asignatura": "PRACTICA PROFESIONAL I",
+   "creditos": 2,
+   "periodo": "VII",
+   "regimen": "Semestral"
+ }
+]
